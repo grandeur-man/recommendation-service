@@ -1,0 +1,50 @@
+# SVN
+.svn/
+
+# Java
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+*WORKSPACE*
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+target/**
+/target/**
+
+META-INF/MANIFEST.MF
+*.MF
+
+# Fortify-specific
+fortify/
+sca5.10/
+
+MANIFEST.MF
